@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Ruby on Rails**
 
-- 💬 Ask me about **React, JS, Node.js**
+- 💬 Ask me about **Angular, JS, Node.js**
 <img align="right" alt="Coding" widgth="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
 
 - 📫 How to reach me **adrianolf2003@gmail.com**

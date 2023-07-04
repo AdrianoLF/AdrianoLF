@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Ruby on Rails and VueJS**
 
-- 💬 Ask me about **Angular, JS, Node.js**
+- 💬 Ask me about **Typescript, Angular, Node.js**
 <img align="right" alt="Coding" widgth="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
 
 - 📫 How to reach me **adrianolf2003@gmail.com**
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adriano-louren%C3%A7o-figueiredo-49821723b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adriano lourenço figueiredo" height="30" width="40" /></a>
-<a href="https://discord.gg/Adriano.Lourenco#1937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adriano.Lourenco#1937" height="30" width="40" /></a>
+<a href="https://discord.gg/adriano.lourenco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Adriano.Lourenco#1937" height="30" width="40" /></a>
 </p>
 
 

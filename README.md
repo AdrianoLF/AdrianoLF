@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full stack developer from Brazil</h3>
 
 - 🔭 I’m currently working on **Web Development**
-- 💬 Ask me about **RoR, Typescript, Node.js**
+- 💬 Ask me about **Ruby on Rails, Typescript, Node.js**
 <img align="right" alt="Coding" widgth="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
 
 - 📫 How to reach me **adrianolf2003@gmail.com**

@@ -38,8 +38,8 @@
 | ![ruby]                   | ![postgres]       | ![rails]                           | ![aws]                  |
 | ![typescript]             | ![docker]         | ![vue]                             | ![jest]                 |
 | ![javascript]             | ![pm2]            | ![tailwind]                        | ![DBeaver]              |
-| ![c_lang]                 | ![redis]          | ![express]                         | ![termius]              |
-| ![php]                    | ![linux_server]   | ![angular]                         | ![postman]              |
+| ![php]                    | ![redis]          | ![express]                         | ![termius]              |
+|                           | ![linux_server]   | ![angular]                         | ![postman]              |
   
 </div>
 

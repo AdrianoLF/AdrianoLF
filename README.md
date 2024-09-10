@@ -5,7 +5,7 @@
 - 💬 Ask me about **Ruby on Rails, Typescript, Node.js**
 <img align="right" alt="Coding" widgth="400" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon-size_restricted.gif">
 
-- 📫 How to reach me **adrianolf2003@gmail.com**
+- 📫 How to reach me **adrianolfi.br@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
